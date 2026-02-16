@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="220" height="48" viewBox="0 0 220 48" role="img" aria-label="M K FURNITURE logo">
+  <rect width="220" height="48" rx="8" fill="#F6EDE6"/>
+  <g transform="translate(12,34)" font-family="Montserrat,Arial,Helvetica,sans-serif" font-weight="700">
+    <text x="0" y="0" font-size="22" fill="#3d2c24">M K</text>
+    <text x="64" y="0" font-size="14" fill="#3d2c24">FURNITURE</text>
+  </g>
+</svg>
